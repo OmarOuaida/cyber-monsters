@@ -1,4 +1,4 @@
-# 🎬 Monsters Make Mistakes – A Security Awareness App
+# 🎬 Cyber Monsters – A Security Awareness App
 
 An interactive educational app that teaches cybersecurity concepts through engaging, character-driven storytelling inspired by *Monsters, Inc.*. This app uses video scenarios, monster metaphors, and guided reflections to highlight common digital security mistakes in a fun, accessible way.
 
