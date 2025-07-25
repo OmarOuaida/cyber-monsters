@@ -1,5 +1,5 @@
 import React from "react";
-import myVideo from "../../assets/weakest-link2.mp4";
+import myVideo from "../../assets/weakest-link.mp4";
 import ScrollableTextBox from "../../components/ScrollableTextBox";
 import WeakestLinkModal from "../../modals/WeakestLinkModal";
 
