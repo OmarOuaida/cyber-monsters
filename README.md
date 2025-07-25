@@ -10,8 +10,6 @@ This app is designed for digital literacy education — perfect for classrooms, 
 
 - Oversharing on social media
 - Weak passwords
-- Public Wi-Fi usage
-- Digital footprint exposure
 - Phishing and impersonation
 
 ---
