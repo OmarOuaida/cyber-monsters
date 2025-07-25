@@ -4,16 +4,6 @@ An interactive educational app that teaches cybersecurity concepts through engag
 
 ---
 
-## 📚 Overview
-
-This app is designed for digital literacy education — perfect for classrooms, workshops, or onboarding environments. Each video showcases a "monster" making a security mistake, encouraging viewers to reflect on real-world risks such as:
-
-- Oversharing on social media
-- Weak passwords
-- Phishing and impersonation
-
----
-
 ## 🚀 Features
 
 - Full-screen video carousel to showcase themed scenarios
